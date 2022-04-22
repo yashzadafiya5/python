@@ -1,0 +1,7 @@
+FROM: 19-04-2022 12:00 am TO: 19-04-2022 11:59 pm
+
+item,Qty.,Cost,Tax,Discount,Profit,Amount
+Apple ,2.0,0.0,0.0,0.0,0,640.0,,
+BANANA,1.0,0.0,0.0,0.0,0,60.0,,
+TOTAL,3.0,0.0,0.0,0.0,0.0
+
