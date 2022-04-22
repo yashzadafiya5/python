@@ -1,0 +1,60 @@
+Name:kl Rahul
+Match:42
+Runs:1634
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPu1afHSJu8ObzjrvGhLTGQRVftPNZ63sRaQ&usqp=CAU
+----------------------------------------------------------------------------------------------
+Name: Rohit Sharma
+Match:223
+Runs:9283 
+https://www.cricbuzz.com/a/img/v1/152x152/i1/c170658/rohit-sharma.jpg
+------------------------------------------------------------------------------------------------
+Name: Virat Kohli
+Match:260
+Runs:12311
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczcX4kekhSNp8BgkIdfLzlOamykUTHGBqesv50kniVQ&s
+-------------------------------------------------------------------------------------------
+Name:Rishabh pant
+Match:24
+Runs:715
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMeEiAbzbkozcjD5KMYEWZ2Hdw0i6zx-Sb9OtBm8eqA&s
+-------------------------------------------------------------------------------------------
+Name: Hardik Pandya
+Match:63
+Runs:1286
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6dFbxXhVFmf1XvI2pMH6YxfhiDSfHGBvfQpPgpq3f6Q&s
+-------------------------------------------------------------------------------------------
+Name:Dinesh Karthik
+Match:94
+Runs:1752
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaoUcObhOqJ2Y9RwH5jSZak1TNsjiOz2-iULUyVnmK&s
+-------------------------------------------------------------------------------------------
+Name: Ravindra Jadeja
+March:168
+Runs:2411
+Wicket:188
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKHkWXkOV1HSHIj3vqpx2VJkOom6s66incw&usqp=CAU
+-------------------------------------------------------------------------------------------
+Name: Deepak Chahar
+Match:7
+Runs:178
+Wicket:10
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTgG7yQ20gx_ZlxRX-p45BjvK_D2V0FHDdys-JmnsHeA&s
+-------------------------------------------------------------------------------------------
+Name: Mohammed Shami
+Match:79
+Runs:161
+Wicket:148
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mdaCcxe18Y9e_dzkdsX0hw4gDy1-uLHb45IQn0g-sw&s
+-------------------------------------------------------------------------------------------
+Name: Jasprit  Bumrah
+Match:70
+Runs:45
+Wicket:113
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMN1pzuoJxEfGd418bVsTEgolAZYPfiOEmXll4NzwqazM2nGJG_jEHUfFZBvNVRr3Al0&usqp=CAU
+--------------------------------------------------------------------------------------------------
+Name:Yuzvendra Chahal
+Match:61
+Runs:66
+Wicket:104
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvY1JodPbw4shnNAVEPmNJvy1zWEG5vmDpDB6TiIM4g&s
+----------------------------------------------------------------------------------------------------
